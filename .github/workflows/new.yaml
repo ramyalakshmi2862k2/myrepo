@@ -36,7 +36,7 @@ jobs:
       - name: Test
         run: python new.py
  
-      # 6. Setup SSH
+      # 6. Setup SSH ev
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh
